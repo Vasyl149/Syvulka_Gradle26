@@ -1,0 +1,288 @@
+2022-03-23 13:06:42 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 13:06:42 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 15:21:55 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 15:21:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 15:58:54 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 15:58:54 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 15:58:54 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-23 15:58:56 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-23 15:58:56 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-23 15:58:56 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-23 15:58:56 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-23 15:59:01 INFO commonBO.MainMenuBO:61 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-23 15:59:01 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-03-23 15:59:01 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-03-23 15:59:40 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-23 16:00:26 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 16:00:26 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 16:00:26 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-23 16:00:27 INFO commonBO.MainMenuBO:21 -open Compose page
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:13 -Edit font style
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:16 -Switch to textarea frame
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:18 -send text to textarea
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:25 -Verify the style of the elements
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:32 -Switch to parent frame
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:35 -Verify fonts in the dropdown
+2022-03-23 16:00:28 INFO commonBO.MainMenuBO:41 -Add file
+2022-03-23 16:00:31 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-23 16:00:31 INFO commonBO.MainMenuBO:81 -Verify Drafts number
+2022-03-23 16:00:31 INFO commonBO.MainMenuBO:11 -Select first draft
+2022-03-23 16:00:32 INFO commonBO.MainMenuBO:13 -click send button
+2022-03-23 16:00:32 INFO commonBO.MainMenuBO:15 -close alert
+2022-03-23 16:00:32 INFO commonBO.MainMenuBO:17 -fill in email field
+2022-03-23 16:00:33 INFO commonBO.MainMenuBO:20 -click send button
+2022-03-23 16:00:37 INFO commonBO.MainMenuBO:14 -Verify sent mail
+2022-03-23 16:00:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 16:00:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 16:00:56 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-23 16:00:58 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-23 16:00:58 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-23 16:00:58 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-23 16:00:58 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-23 16:01:03 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-23 16:01:05 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 16:01:05 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 16:01:05 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:21 -open Compose page
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:13 -Edit font style
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:16 -Switch to textarea frame
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:18 -send text to textarea
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:25 -Verify the style of the elements
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:32 -Switch to parent frame
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:35 -Verify fonts in the dropdown
+2022-03-23 16:01:07 INFO commonBO.MainMenuBO:41 -Add file
+2022-03-23 16:01:11 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-23 16:01:11 INFO commonBO.MainMenuBO:81 -Verify Drafts number
+2022-03-23 16:01:11 INFO commonBO.MainMenuBO:11 -Select first draft
+2022-03-23 16:01:11 INFO commonBO.MainMenuBO:13 -click send button
+2022-03-23 16:01:11 INFO commonBO.MainMenuBO:15 -close alert
+2022-03-23 16:01:11 INFO commonBO.MainMenuBO:17 -fill in email field
+2022-03-23 16:01:12 INFO commonBO.MainMenuBO:20 -click send button
+2022-03-23 16:01:16 INFO commonBO.MainMenuBO:14 -Verify sent mail
+2022-03-23 16:01:43 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-23 16:01:43 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-23 16:01:43 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-23 16:01:45 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-23 16:01:45 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-23 16:01:45 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-23 16:01:45 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-23 16:01:50 INFO commonBO.MainMenuBO:61 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-23 16:01:50 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-03-23 16:01:50 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-03-26 12:43:37 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 12:43:37 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 12:43:37 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 12:43:43 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 12:43:43 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 12:43:43 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 12:43:43 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 12:43:49 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-26 12:43:55 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 12:43:55 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 12:43:55 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-26 12:43:58 INFO commonBO.MainMenuBO:21 -open Compose page
+2022-03-26 12:43:58 INFO commonBO.MainMenuBO:13 -Edit font style
+2022-03-26 12:43:59 INFO commonBO.MainMenuBO:16 -Switch to textarea frame
+2022-03-26 12:43:59 INFO commonBO.MainMenuBO:18 -send text to textarea
+2022-03-26 12:43:59 INFO commonBO.MainMenuBO:25 -Verify the style of the elements
+2022-03-26 12:43:59 INFO commonBO.MainMenuBO:32 -Switch to parent frame
+2022-03-26 12:43:59 INFO commonBO.MainMenuBO:35 -Verify fonts in the dropdown
+2022-03-26 12:43:59 INFO commonBO.MainMenuBO:41 -Add file
+2022-03-26 12:44:02 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-26 12:44:02 INFO commonBO.MainMenuBO:81 -Verify Drafts number
+2022-03-26 12:44:02 INFO commonBO.MainMenuBO:11 -Select first draft
+2022-03-26 12:44:03 INFO commonBO.MainMenuBO:13 -click send button
+2022-03-26 12:44:03 INFO commonBO.MainMenuBO:15 -close alert
+2022-03-26 12:44:03 INFO commonBO.MainMenuBO:17 -fill in email field
+2022-03-26 12:44:04 INFO commonBO.MainMenuBO:20 -click send button
+2022-03-26 12:44:08 INFO commonBO.MainMenuBO:14 -Verify sent mail
+2022-03-26 13:35:51 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 13:35:51 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 13:35:51 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 13:35:56 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 13:35:56 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 13:35:56 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 13:35:56 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 13:36:01 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-26 13:36:23 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 13:36:23 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 13:36:23 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 13:36:27 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 13:36:27 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 13:36:27 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 13:36:27 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 13:36:32 INFO commonBO.MainMenuBO:61 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-26 13:36:32 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-03-26 13:36:32 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-03-26 13:39:54 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 13:39:54 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 13:39:54 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 13:40:00 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 13:40:00 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 13:40:00 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 13:40:00 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 13:40:05 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-26 13:41:35 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 13:41:35 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 13:41:36 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 13:41:39 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 13:41:39 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 13:41:39 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 13:41:39 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 13:41:44 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-26 13:42:19 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 13:42:19 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 13:42:19 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 13:42:23 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 13:42:23 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 13:42:23 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 13:42:23 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 13:42:28 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-26 13:45:51 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-26 13:45:51 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-26 13:45:51 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-26 13:45:52 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-26 13:45:52 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-26 13:45:52 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-26 13:45:52 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-26 13:45:57 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-26 13:45:57 INFO commonBO.MainMenuBO:62 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:32:48 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:32:49 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:32:49 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:32:52 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:32:52 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:32:52 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:32:52 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:32:57 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:32:57 INFO commonBO.MainMenuBO:62 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:41:46 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:41:46 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:41:46 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:41:52 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:41:52 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:41:52 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:41:52 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:41:57 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:41:57 INFO commonBO.MainMenuBO:62 -[Lenums.MenuListEnum;@71926a36
+2022-03-27 16:41:57 INFO commonBO.MainMenuBO:63 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:43:25 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:43:26 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:43:26 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:43:32 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:43:32 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:43:32 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:43:32 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:43:37 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:43:37 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:43:37 INFO commonBO.MainMenuBO:63 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:44:30 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:44:30 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:44:30 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:44:34 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:44:34 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:44:34 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:44:34 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:44:39 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:44:39 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:44:39 INFO commonBO.MainMenuBO:63 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:46:24 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:46:24 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:46:24 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:46:31 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:46:31 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:46:31 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:46:31 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:46:36 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:46:36 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:46:36 INFO commonBO.MainMenuBO:63 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:46:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:46:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:46:57 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:46:59 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:46:59 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:46:59 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:46:59 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:47:04 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Р�?, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґР�?С–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:47:04 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Р�?, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґР�?С–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:47:04 INFO commonBO.MainMenuBO:63 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-27 16:48:24 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:48:24 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:48:25 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:48:31 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:48:31 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:48:31 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:48:31 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:48:36 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Р�?, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґР�?С–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:48:36 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Р�?, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґР�?С–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:48:36 INFO commonBO.MainMenuBO:63 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-27 16:48:56 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:48:56 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:48:56 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:48:59 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:48:59 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:48:59 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:48:59 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:49:04 INFO commonBO.MainMenuBO:61 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-27 16:49:04 INFO commonBO.MainMenuBO:62 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-27 16:49:04 INFO commonBO.MainMenuBO:63 -[������, ��������, ��������, ����, ��������, �����������, ³������, ���������]
+2022-03-27 16:49:04 INFO commonBO.MainMenuBO:66 -Check if icons are displayed on left menu
+2022-03-27 16:49:04 INFO commonBO.MainMenuBO:72 -Check if message counter is equal to the number of messages
+2022-03-27 16:49:20 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:49:20 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:49:20 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:49:23 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:49:23 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:49:23 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:49:23 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:49:28 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:49:28 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:49:28 INFO commonBO.MainMenuBO:63 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:53:22 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:53:22 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:53:22 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:53:29 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:53:29 INFO commonBO.MainMenuBO:47 -Check if 'Inbox' tab is selected
+2022-03-27 16:53:29 INFO commonBO.MainMenuBO:53 -Check if menu list contains 8 items
+2022-03-27 16:53:29 INFO commonBO.MainMenuBO:55 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:53:34 INFO commonBO.MainMenuBO:61 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:53:34 INFO commonBO.MainMenuBO:62 -[Р’С…С–РґРЅС–, Р§РµСЂРЅРµС‚РєРё, РќР°РґС–СЃР»Р°РЅС–, РЎРїР°Рј, Р’РёРґР°Р»РµРЅС–, РќРµРїСЂРѕС‡РёС‚Р°РЅС–, Р’С–РґРјС–С‡РµРЅС–, Р’РєР»Р°РґРµРЅРЅСЏ]
+2022-03-27 16:53:34 INFO commonBO.MainMenuBO:63 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:56:25 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 16:56:25 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 16:56:25 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 16:56:28 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 16:56:28 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-03-27 16:56:29 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-03-27 16:56:29 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 16:56:34 INFO commonBO.MainMenuBO:61 -[Вхідні, Чернетки, Надіслані, Спам, Видалені, Непрочитані, Відмічені, Вкладення]
+2022-03-27 16:56:34 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-03-27 16:56:34 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-03-27 17:17:17 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 17:17:17 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 17:17:17 INFO commonBO.MainMenuBO:19 -Check if there are new emails in the mailbox
+2022-03-27 17:17:22 INFO commonBO.MainMenuBO:12 -Get unread letters number
+2022-03-27 17:17:22 INFO commonBO.MainMenuBO:46 -Check if 'Inbox' tab is selected
+2022-03-27 17:17:22 INFO commonBO.MainMenuBO:52 -Check if menu list contains 8 items
+2022-03-27 17:17:22 INFO commonBO.MainMenuBO:54 -Check if menu consist of  'Inbox', 'Drafts', 'Sent', 'Spam' etc.
+2022-03-27 17:17:27 INFO commonBO.MainMenuBO:64 -Check if icons are displayed on left menu
+2022-03-27 17:17:27 INFO commonBO.MainMenuBO:70 -Check if message counter is equal to the number of messages
+2022-03-27 17:17:30 INFO commonBO.MainMenuBO:11 -Fill login and password
+2022-03-27 17:17:30 INFO commonBO.MainMenuBO:13 -Click 'Continue' button
+2022-03-27 17:17:30 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-27 17:17:34 INFO commonBO.MainMenuBO:20 -open Compose page
+2022-03-27 17:17:34 INFO commonBO.MainMenuBO:13 -Edit font style
+2022-03-27 17:17:35 INFO commonBO.MainMenuBO:16 -Switch to textarea frame
+2022-03-27 17:17:35 INFO commonBO.MainMenuBO:18 -send text to textarea
+2022-03-27 17:17:35 INFO commonBO.MainMenuBO:25 -Verify the style of the elements
+2022-03-27 17:17:36 INFO commonBO.MainMenuBO:32 -Switch to parent frame
+2022-03-27 17:17:36 INFO commonBO.MainMenuBO:35 -Verify fonts in the dropdown
+2022-03-27 17:17:36 INFO commonBO.MainMenuBO:41 -Add file
+2022-03-27 17:17:39 INFO commonBO.MainMenuBO:76 -Get drafts number
+2022-03-27 17:17:39 INFO commonBO.MainMenuBO:81 -Verify Drafts number
+2022-03-27 17:17:39 INFO commonBO.MainMenuBO:11 -Select first draft
+2022-03-27 17:17:39 INFO commonBO.MainMenuBO:13 -click send button
+2022-03-27 17:17:39 INFO commonBO.MainMenuBO:15 -close alert
+2022-03-27 17:17:39 INFO commonBO.MainMenuBO:17 -fill in email field
+2022-03-27 17:17:41 INFO commonBO.MainMenuBO:20 -click send button
+2022-03-27 17:17:45 INFO commonBO.MainMenuBO:14 -Verify sent mail

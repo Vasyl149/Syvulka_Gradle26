@@ -1,0 +1,1 @@
+{"uuid":"3406ec8f-a037-407c-8dc0-e6f3580a7127","name":"BaseTest.preCondition","children":["c87c2564-56f0-4345-9c0d-66d83b733bff"],"description":"","befores":[{"name":"preCondition","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648044023456,"stop":1648044026533}],"afters":[],"start":1648044023455,"stop":1648044026534}

@@ -1,0 +1,1 @@
+{"uuid":"4413f367-d9e2-41c0-b6d9-f5c00325b690","name":"BaseTest.postCondition","children":["9ac8ace6-0113-4811-a88c-f36d7aa62b82"],"description":"","befores":[],"afters":[{"name":"postCondition","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648294805852,"stop":1648294805852}],"start":1648294805851,"stop":1648294805852}
