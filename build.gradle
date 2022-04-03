@@ -30,5 +30,4 @@ test {
     useTestNG()
     println System.getProperty("environment") ? System.getProperty("environment") : 'no message'
     systemProperties = System.properties
-
 }
