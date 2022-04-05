@@ -46,3 +46,8 @@ task createZip(type: Zip){
         println "Path to file: $archivePath.path"
     }
 }
+
+task unpackFile(type: Copy){
+    from zipTree("build/distributions/Syvulka_Gradle26-1.0-SNAPSHOT.zip")
+    into 'unpackedfile'
+}
